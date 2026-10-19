@@ -75,5 +75,5 @@ a public IP.
 
 ## See also
 
-[ThreatMap](../ThreatMap) is the follow-up project: a SIEM-style map of real attacks on your own
+[ThreatMap](https://github.com/BladeIV/ThreatMap) is the follow-up project: a SIEM-style map of real attacks on your own
 MikroTik routers, collected over syslog, with offline GeoIP, SQLite storage and detections.
